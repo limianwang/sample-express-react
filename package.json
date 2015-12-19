@@ -1,0 +1,25 @@
+{
+  "name": "sample-express-react",
+  "version": "1.0.0",
+  "description": "sample-express-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/limianwang/yogo.git"
+  },
+  "author": "Limian Wang <limian.wang@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/limianwang/yogo#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "express-react-views": "^0.9.0",
+    "jwt-simple": "^0.4.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  }
+}
